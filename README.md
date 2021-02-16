@@ -1,1 +1,1 @@
-# hand-shape-recognition.github.io
+# hand_recognition
